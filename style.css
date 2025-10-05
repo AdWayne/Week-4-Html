@@ -478,11 +478,6 @@ footer {
   width: 24px;
   height: 24px;
   cursor: pointer;
-  transition: opacity 0.3s;
-}
-
-.links img:hover {
-  opacity: 0.7;
 }
 
 .Nav, .right {
@@ -514,6 +509,4 @@ footer {
   cursor: pointer;
 }
 
-.linkmusic img:hover {
-  opacity: 0.8;
-}
+
